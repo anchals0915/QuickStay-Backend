@@ -2,7 +2,7 @@
 
 A Short-term rental platform that prioritizes female travellers’ safety and comfort while enhancing the overall booking experience. 
 
-Spring boot backend of the airbnb clone
+Spring boot backend of the Quick Stay
 
 ### Key Features:
 + Booking management for travelers
