@@ -14,7 +14,6 @@ Spring boot backend of the Quick Stay
 ## Usage
 ### Prerequisites
 - [JDK 21](https://adoptium.net/temurin/releases/)
-- [PostgreSQL](https://www.postgresql.org/download/)
 - IDE ([VSCode](https://code.visualstudio.com/download), [IntelliJ](https://www.jetbrains.com/idea/download/))
 
 
