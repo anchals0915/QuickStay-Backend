@@ -1,17 +1,15 @@
-# Airbnb clone (fullstack project) Spring boot 3, Angular 17, PrimeNG, PostgreSQL, Auth0 (2024) (Backend)
+# Quick Stay (Backend)
+
+A Short-term rental platform that prioritizes female travellers’ safety and comfort while enhancing the overall booking experience. 
 
 Spring boot backend of the airbnb clone
 
-[Video tutorial](https://youtu.be/XriUV06Hkow)
-
-[Angular Frontend](https://github.com/C0de-cake/airbnb-clone-frontend)
-
 ### Key Features:
-- 📅 Booking management for travelers
-- 🏠 Landlord reservation management
-- 🔍 Search for houses by criteria (location, date, guests, beds, etc)
-- 🔐 Authentication and Authorization (Role management) with Auth0 (OAuth2)
-- 🏢 Domain-driven design
++ Booking management for travelers
++ Landlord reservation management
++ Search for houses by criteria (location, date, guests, beds, etc)
++ Authentication and Authorization (Role management) with Auth0 (OAuth2)
++ Domain-driven design
 
 ## Usage
 ### Prerequisites
@@ -19,8 +17,6 @@ Spring boot backend of the airbnb clone
 - [PostgreSQL](https://www.postgresql.org/download/)
 - IDE ([VSCode](https://code.visualstudio.com/download), [IntelliJ](https://www.jetbrains.com/idea/download/))
 
-### Clone the repository
-``git clone https://github.com/C0de-cake/airbnb-clone-back``
 
 ### Launch
 #### Maven
