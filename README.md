@@ -29,7 +29,7 @@ The backend of Quick Stay is structured following the **Model-View-Controller (M
 - **`controller/`**: Acts as the interface between the client and server, managing HTTP requests, handling responses, and directing requests to the appropriate services.
 - **`service/`**: Contains the business logic of the application, processing data, managing transactions, and coordinating between controllers and repositories.
 - **`repository/`**: Responsible for data persistence and retrieval, interacting directly with the database to perform CRUD (Create, Read, Update, Delete) operations.
-- 
+  
 Additionally, **Auth0** is implemented for secure user authentication, utilizing **OAuth2** to enforce role-based access control, allowing users (such as travelers and landlords) to securely log in and access the platform based on their assigned roles.
 
 ## Implementation
